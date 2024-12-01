@@ -1,0 +1,7 @@
+C:\Users\snguy\Desktop\job\TRS\TRS-Excercises\TRSEvaluation\TRSEvaluation\bin\Debug\TRSEvaluation.exe.config
+C:\Users\snguy\Desktop\job\TRS\TRS-Excercises\TRSEvaluation\TRSEvaluation\bin\Debug\TRSEvaluation.exe
+C:\Users\snguy\Desktop\job\TRS\TRS-Excercises\TRSEvaluation\TRSEvaluation\bin\Debug\TRSEvaluation.pdb
+C:\Users\snguy\Desktop\job\TRS\TRS-Excercises\TRSEvaluation\TRSEvaluation\obj\Debug\TRSEvaluation.csproj.AssemblyReference.cache
+C:\Users\snguy\Desktop\job\TRS\TRS-Excercises\TRSEvaluation\TRSEvaluation\obj\Debug\TRSEvaluation.csproj.CoreCompileInputs.cache
+C:\Users\snguy\Desktop\job\TRS\TRS-Excercises\TRSEvaluation\TRSEvaluation\obj\Debug\TRSEvaluation.exe
+C:\Users\snguy\Desktop\job\TRS\TRS-Excercises\TRSEvaluation\TRSEvaluation\obj\Debug\TRSEvaluation.pdb
